@@ -6,3 +6,7 @@ data class Category(
     val strCategoryThumb: String,
     val strCategoryDescription: String
 )
+
+data class CategoryResponse(
+    val categories: List<Category>
+)
