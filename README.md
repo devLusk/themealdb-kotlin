@@ -36,5 +36,5 @@ It uses **TheMealDB API** to fetch and display meal categories.
 Data provided by **TheMealDB**:  
 https://www.themealdb.com/api.php
 
-Used endpoint:
-
+Used endpoint:  
+https://www.themealdb.com/api/json/v1/1/categories.php
