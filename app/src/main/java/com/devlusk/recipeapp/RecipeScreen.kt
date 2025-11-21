@@ -78,7 +78,7 @@ fun CategoryItem(category: Category) {
                 .fillMaxWidth()
                 .aspectRatio(1f)
         )
-        Spacer(modifier = Modifier.height(10.dp))
+        Spacer(modifier = Modifier.height(8.dp))
         Text(
             text = category.strCategory,
             color = Color.Black,
